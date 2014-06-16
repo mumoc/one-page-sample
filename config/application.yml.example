@@ -1,0 +1,6 @@
+aws_access_key: waka
+aws_secret_access_key: waka
+devise_secret: rake secret
+fog_directory: directory
+fog_provider: provider
+
